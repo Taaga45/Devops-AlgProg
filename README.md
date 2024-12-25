@@ -1,1 +1,1 @@
-# Devops-lab2
+# Devops-AlgProg
